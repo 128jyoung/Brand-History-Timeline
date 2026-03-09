@@ -1,9 +1,10 @@
 body {
-    background-image: url(/img/Untitled\ design.png);
+    background-image: url("../img/Untitleddesign.png");
+    background-size: contain;
 }
 
 
 h1 {
   font-family: "Bitcount Single";
-  text-align: center;
+  color:red;
 }
